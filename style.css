@@ -24,7 +24,7 @@ box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 border-radius: 5px;
 border: none;
 transition: transform 0.1s linear;
-transform: scale(1.5);   /*my rule*/
+transform: scale(3.5);   /*my rule*/
 }
 
 button:focus {
